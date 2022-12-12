@@ -1,4 +1,4 @@
-// import java.util.Locale;
+// import java.util.Locale; (used for getCurrencyInstance by typing in Locale.[insert country here] in the brackets to give the desired currency symbol)
 import java.util.Scanner;
 import java.text.NumberFormat;
 
